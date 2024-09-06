@@ -1,0 +1,14 @@
+{
+  "name": "cyber-punk-building",
+  "version": "0.0.0",
+  "description": "cyberPunkBuilding",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
